@@ -7,8 +7,11 @@ SkillSwap — одностраничное (SPA) приложение, в ко�
 
 Сервис позволяет находить взаимно подходящие пары, отправлять заявки на обмен и вести список текущих/завершённых сессий.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6262dd71-39a3-4581-ac86-2f10baf0b2ca" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0190b63-fdcd-4443-b353-59f3b1a0284a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8b4660c0-d10f-4410-a75a-ddbdac699fd4" />
+
+<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/23d9c781-eab4-4889-a4ab-3a405b2f72d7" />
+
+<img width="1365" height="648" alt="image" src="https://github.com/user-attachments/assets/145b8460-6df3-456f-8eb3-42d85a06da4d" />
 
 
 ### Реализованный функционал
